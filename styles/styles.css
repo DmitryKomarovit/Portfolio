@@ -14,7 +14,7 @@ body {
   margin: 0 auto;
   min-height: 765px;
   padding-top: 27px;
-  background-image: url(/resources/my\ photo.jpg);
+  background-image: url(../resources/my\ photo.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 0% 70%;
@@ -201,7 +201,7 @@ h4 {
 .contacts {
   position: relative;
   height: 717px;
-  background-image: url(/resources/cuate.png);
+  background-image: url(../resources/cuate.png);
   background-repeat: no-repeat;
   background-position: right;
   background-color: #191c19;
